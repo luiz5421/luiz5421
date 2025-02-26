@@ -1,16 +1,22 @@
-## Hi there 👋
+## Prazer, eu sou o Vinicius 👋
+<ul>
+          <li>Estudante de Analise e desenvolvimento de sistemas (4ºSemestre)
+          <li>Em busca de uma vaga como desenvolvedor Front-End
+</ul>
 
-<!--
-**luiz5421/luiz5421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+<img height= "180em" src="https://github-readme-stats.vercel.app/api?username=luiz5421&show_icons=true&theme=dracula">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz5421&layout=compact&theme=dracula">
+</div>
 
-Here are some ideas to get you started:
+## Principais tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<img height="40"  src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />  
+<img height="40"  src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />  
+<img height="40"  src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />    
+<img height="40"  src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" />   
+<img height="40"  src="https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white" />   
+<img height="40"  src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
+<img height="40"  src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" />
+</div>
