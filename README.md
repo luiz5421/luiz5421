@@ -1,7 +1,7 @@
-## Prazer, eu sou o Vinicius 👋
+## Prazer, eu sou o Luiz Fellipe 👋
 <ul>
           <li>Estudante de Analise e desenvolvimento de sistemas (4ºSemestre)
-          <li>Em busca de uma vaga como desenvolvedor Front-End
+          
 </ul>
 
 <div>
