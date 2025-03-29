@@ -9,5 +9,3 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz5421&layout=compact&theme=dracula">
 </div>
 
-## Principais tecnologias
-
